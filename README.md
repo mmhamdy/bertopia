@@ -1,2 +1,5 @@
-# bert_examples
+# Bert Examples
+
+![](bert.jpg)
+
 Notebooks Exploring BERT
